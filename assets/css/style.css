@@ -17,6 +17,7 @@ nav {
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: #ffffff;
     padding: 30px;
+    margin-left: 305px;
 }
 nav ul {
     float: right;
@@ -57,5 +58,22 @@ p {
     display: block;
     clear: both;
     
+}
+
+.green-box {
+    position: relative;
+    background: #4aaaa5;
+    height: 5px;
+    width: 100%;
+
+}
+
+.gray-box {
+    position: absolute;
+    background: #666666;
+    Height: 50px;
+    Width: 100%;
+    margin-bottom: 1px;
+
 }
 
