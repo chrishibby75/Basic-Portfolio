@@ -14,7 +14,7 @@ nav {
     float: left;
     background-color: #4aaaa5;
     font-size: 30px;
-    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: #ffffff;
     padding: 30px;
     margin-left: 305px;
@@ -50,6 +50,7 @@ nav ul li {
 }
 
 p {
+    font-family: Arial, Helvetica, sans-serif;
     line-height: 20px;
 }
 
@@ -73,7 +74,13 @@ p {
     background: #666666;
     Height: 50px;
     Width: 100%;
-    margin-bottom: 1px;
+    margin-bottom: 0px;
 
+}
+
+.img {
+    width: 200px;
+    height: 200px;
+    margin: 20px 20px 20px 20px;
 }
 
