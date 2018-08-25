@@ -17,7 +17,7 @@ nav {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #ffffff;
     padding: 30px;
-    margin-left: 305px;
+    margin-left: 295px;
 }
 nav ul {
     float: right;
@@ -44,7 +44,7 @@ nav ul li {
     margin: 25px;
 }
 
-.family {
+.pic {
     float: left;
     padding: 10px;
 }
@@ -71,10 +71,11 @@ p {
 
 .gray-box {
     position: absolute;
-    background: #666666;
-    Height: 50px;
+    background: #666666;a
+    Height: 65px;
     Width: 100%;
     margin-bottom: 0px;
+    text-align: center;
 
 }
 
@@ -84,3 +85,12 @@ p {
     margin: 20px 20px 20px 20px;
 }
 
+
+.tag {
+    position: relative;
+    height: 30px;
+    width: 200px;
+    background: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+}
