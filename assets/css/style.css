@@ -17,7 +17,8 @@ nav {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #ffffff;
     padding: 30px;
-    margin-left: 295px;
+    margin-left: 270px;
+    display: inline-block;
 }
 nav ul {
     float: right;
@@ -41,7 +42,7 @@ nav ul li {
 .white-box {
     background-color: #ffffff;
     padding: 20px;
-    margin: 25px;
+    margin: 25px auto;
 }
 
 .pic {
@@ -71,7 +72,7 @@ p {
 
 .gray-box {
     position: absolute;
-    background: #666666;a
+    background: #666666;
     Height: 65px;
     Width: 100%;
     margin-bottom: 0px;
@@ -82,7 +83,7 @@ p {
 .img {
     position: relative;
     display: inline-block;
-    margin: 35px;
+    margin: 50px;
     
 }
 
@@ -94,9 +95,6 @@ p {
     text-align: center;
     bottom: 20px;
 }
-    
     #portfolio {
-        width: 550px;
-        margin-top: 20px;
-        display: inline-block;
+        width: 800px;
     }
