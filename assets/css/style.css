@@ -80,17 +80,23 @@ p {
 }
 
 .img {
-    width: 200px;
-    height: 200px;
-    margin: 20px 20px 20px 20px;
+    position: relative;
+    display: inline-block;
+    margin: 35px;
+    
 }
-
 
 .tag {
-    position: relative;
-    height: 30px;
+    position: absolute;
+    background-color: #4aaaa5;
+    color: white;
     width: 200px;
-    background: #4aaaa5;
-    color: #ffffff;
     text-align: center;
+    bottom: 20px;
 }
+    
+    #portfolio {
+        width: 550px;
+        margin-top: 20px;
+        display: inline-block;
+    }
